@@ -1,0 +1,26 @@
+{
+  "name": "webappusingapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "twilio": "^3.40.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shdonas/WebAppUsingApi.git"
+  },
+  "author": "Shakhawat Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shdonas/WebAppUsingApi/issues"
+  },
+  "homepage": "https://github.com/shdonas/WebAppUsingApi#readme"
+}
