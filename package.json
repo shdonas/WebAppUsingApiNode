@@ -5,7 +5,7 @@
   "main": "script.js",
   "dependencies": {
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "twilio": "^3.40.0"
   },
